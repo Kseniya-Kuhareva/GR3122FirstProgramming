@@ -1,0 +1,15 @@
+C:\Users\galki\Desktop\30.08 C#\GR3122FirstProgramming\SEM1TASK5\obj\Debug\net6.0\SEM1TASK5.csproj.AssemblyReference.cache
+C:\Users\galki\Desktop\30.08 C#\GR3122FirstProgramming\SEM1TASK5\obj\Debug\net6.0\SEM1TASK5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galki\Desktop\30.08 C#\GR3122FirstProgramming\SEM1TASK5\obj\Debug\net6.0\SEM1TASK5.AssemblyInfoInputs.cache
+C:\Users\galki\Desktop\30.08 C#\GR3122FirstProgramming\SEM1TASK5\obj\Debug\net6.0\SEM1TASK5.AssemblyInfo.cs
+C:\Users\galki\Desktop\30.08 C#\GR3122FirstProgramming\SEM1TASK5\obj\Debug\net6.0\SEM1TASK5.csproj.CoreCompileInputs.cache
+C:\Users\galki\Desktop\30.08 C#\GR3122FirstProgramming\SEM1TASK5\bin\Debug\net6.0\SEM1TASK5.exe
+C:\Users\galki\Desktop\30.08 C#\GR3122FirstProgramming\SEM1TASK5\bin\Debug\net6.0\SEM1TASK5.deps.json
+C:\Users\galki\Desktop\30.08 C#\GR3122FirstProgramming\SEM1TASK5\bin\Debug\net6.0\SEM1TASK5.runtimeconfig.json
+C:\Users\galki\Desktop\30.08 C#\GR3122FirstProgramming\SEM1TASK5\bin\Debug\net6.0\SEM1TASK5.dll
+C:\Users\galki\Desktop\30.08 C#\GR3122FirstProgramming\SEM1TASK5\bin\Debug\net6.0\SEM1TASK5.pdb
+C:\Users\galki\Desktop\30.08 C#\GR3122FirstProgramming\SEM1TASK5\obj\Debug\net6.0\SEM1TASK5.dll
+C:\Users\galki\Desktop\30.08 C#\GR3122FirstProgramming\SEM1TASK5\obj\Debug\net6.0\refint\SEM1TASK5.dll
+C:\Users\galki\Desktop\30.08 C#\GR3122FirstProgramming\SEM1TASK5\obj\Debug\net6.0\SEM1TASK5.pdb
+C:\Users\galki\Desktop\30.08 C#\GR3122FirstProgramming\SEM1TASK5\obj\Debug\net6.0\SEM1TASK5.genruntimeconfig.cache
+C:\Users\galki\Desktop\30.08 C#\GR3122FirstProgramming\SEM1TASK5\obj\Debug\net6.0\ref\SEM1TASK5.dll
