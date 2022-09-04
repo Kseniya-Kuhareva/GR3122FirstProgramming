@@ -34,5 +34,5 @@ if (inputLineA != null && inputLineB != null && inputLineC != null)       //пр
             Console.Write("max = ");                        //выводим число
             Console.Write(inputLineC);
         }
-    }
+    }                                                    //получаем длинный некрасивый код
 }

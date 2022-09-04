@@ -21,4 +21,4 @@ if (inputLineA != null && inputLineB != null)            //проверяем н
         Console.Write("max = ");                        // в результат выводим это число
         Console.Write(inputLineB);
     }
-}                                                       //ценок :)
+}                                                      
