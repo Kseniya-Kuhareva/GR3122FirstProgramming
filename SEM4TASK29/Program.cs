@@ -26,11 +26,13 @@ int[] GenArr(int num)
 //Выводим массив
 void PrintArray(int[] arr)
 {
+    Console.Write("[");
     for (int i = 0; i < arr.Length - 1; i++)
     {
     Console.Write(arr[i] + ", ");
     }
-    Console.WriteLine(arr[arr.Length - 1]);
+    Console.Write(arr[arr.Length - 1]);
+    Console.Write("]");
 }
 
 int arrLen = ReadData("Введите длину массива: ");
