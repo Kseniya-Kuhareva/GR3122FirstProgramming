@@ -13,7 +13,7 @@
 // }
 // double CalculateData(int x1, int y1, int x2, int y2)
 // {
-//     return Math.Sqrt((x2 - x1) * (x2 - x1) + (y2 - y1) + (y2 - y1));
+//     return Math.Sqrt((x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1));
 // }
 
 // void PrintResult(string line)

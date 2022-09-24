@@ -11,8 +11,7 @@ int ReadData(string line)
     return number;
 }
 
-//1 2 3 4 5 6
-//1 4 9 16 25 36
+
 string LineNumbers(int numberN, int pow)
 {
     int i = 1;
